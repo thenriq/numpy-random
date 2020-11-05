@@ -1,7 +1,6 @@
+# Programming for Data Analysis 2020 - GMIT
 
-# An investigation into the numpy.random package.
-
-## Programming for Data Analysis 2020
+## An investigation into the numpy.random package.
 THIAGO LIMA
 
 #### About this project:
